@@ -6,7 +6,7 @@ Machine learning is the sub-field of computer science that, according to Arthur 
 
 ![](https://github.com/barend-erasmus/machine-learning/raw/master/images/machine-learning-basic.png)
 
-The **Hidden Layer** in machine learning can consist of anything but most commonly consist of one or more of the following algoritms.
+The **Hidden Layer** in machine learning can consist of anything but most commonly consist of one or more of the following algorithms.
 
 * Linear Regression
 * Logistic Regression
@@ -23,7 +23,7 @@ The **Hidden Layer** in machine learning can consist of anything but most common
 * Linear Classifier
 * and more...
 
-Each of the above algoritms have different variations which inlucdes over 70 unique algorithms.
+Each of the above algoritms have different variations which includes over 70 unique algorithms.
 
 Here is an example of what a **Hidden Layer** could look like.
 
@@ -37,4 +37,4 @@ In the example below, the data would be the text and the class would either be '
 
 ![](https://github.com/barend-erasmus/machine-learning/raw/master/images/like-dislike.PNG)
 
-Based on the user's answer, the next prediction would be better as the previous. The prediction before and after could also be used and feedback into the system to increase the quality of the next prediction.
+Based on the user's answer, the next prediction would be better as the previous. The prediction before and after could also be used and feed into the system to increase the quality of the next prediction.
