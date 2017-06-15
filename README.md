@@ -31,4 +31,10 @@ Here is an example of what a **Hidden Layer** could look like.
 
 ## How is the Hidden Layer trained?
 
+The **Hidden Layer** can be trained by provided data with its class.
+
+In the example below, the data would be the text and the class would either be 'liked' or 'disliked'.
+
 ![](https://github.com/barend-erasmus/machine-learning/raw/master/images/like-dislike.PNG)
+
+Based on the user's answer, the next prediction would be better as the previous. The prediction before and after could also be used and feedback into the system to increase the quality of the next prediction.
