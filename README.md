@@ -23,7 +23,7 @@ The **Hidden Layer** in machine learning can consist of anything but most common
 * Linear Classifier
 * and more...
 
-Each of the above algoritms have different variations which includes over 70 unique algorithms.
+Each of the above algorithms has different variations which include over 70 unique algorithms.
 
 Here is an example of what a **Hidden Layer** could look like.
 
